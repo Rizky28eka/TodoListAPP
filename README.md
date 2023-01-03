@@ -1,16 +1,7 @@
 # todolistapp
 
-A new Flutter project.
+A new Flutter project TodolistApp using database simpel
 
-## Getting Started
+## Picture the APP
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230103-234746](https://user-images.githubusercontent.com/55177395/210402559-dd451538-6f6d-4906-a6cb-577aa3cafb88.jpg)
